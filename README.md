@@ -1,4 +1,15 @@
-<!-- ### Oleh Pohorelov - .NET Developer -->
+<!-- <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
+
+<p align="center">
+  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
+  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/pohorelov-oleh/">GitHub</a>
+</p> -->
+<p align="center">
+  <img src="https://github.com/pohorelov-oleh.png" width="100" height="100">
+</p>
+
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 
 <p align="center">
