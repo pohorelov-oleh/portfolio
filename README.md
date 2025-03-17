@@ -7,7 +7,7 @@
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
 <p align="center">
-  <img src="https://github.com/pohorelov-oleh.png" width="100" height="100">
+  <img src="https://github.com/pohorelov-oleh.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #FFD700; box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.8);">
 </p>
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
@@ -15,12 +15,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=F7A62F&center=true&vCenter=true&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;A+passionate+.NET+developer;Building+B2B+platforms+for+business;Let's+build+something+amazing!">
 </p>
+
 <p align="center">
   📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
   📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p>
+
 
 ---
 
