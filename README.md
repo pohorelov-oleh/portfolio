@@ -36,7 +36,7 @@ A web platform developed to automate the processing of distributor orders. Befor
 
 ---
 
-**Inventory Management System for Retail Equipment** - **Click to overview project**
+#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](https://store.hsf.company)
 An inventory management system for retail equipment that replaced Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.
 
 - Implemented a hierarchical structure for equipment accounting by regions, districts, and municipalities.
@@ -48,7 +48,7 @@ An inventory management system for retail equipment that replaced Excel spreadsh
 
 ---
 
-**B2B Platform for Kryvoozerska Bakery Orders** - **Click to overview project** 
+#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](https://store.hsf.company) 
 A platform for bakery product orders that optimized the client order processing workflow.
 
 - Developed a user-friendly product catalog with filtering and sorting options.
@@ -76,4 +76,5 @@ A platform for bakery product orders that optimized the client order processing 
 #### 🚀 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/)  
 📩 pohorelov.oe@gmail.com  
+📱 +38 (097) 094 86 78
 📍 Kryve Ozero, Ukraine  
