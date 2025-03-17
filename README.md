@@ -22,6 +22,13 @@
 
 ---
 
+<h1>Oleh Pohorelov - .NET Developer</h1>
+<p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
+</p>
+
+---
+
 <p align="center">
   📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
   📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
