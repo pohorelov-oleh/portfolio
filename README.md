@@ -7,7 +7,14 @@
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
 <p align="center">
-  <img src="https://github.com/pohorelov-oleh.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #FFD700; box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.8);">
+  <svg width="140" height="140" viewBox="0 0 100 100">
+    <defs>
+      <clipPath id="hexagon">
+        <polygon points="50,2 98,25 98,75 50,98 2,75 2,25"/>
+      </clipPath>
+    </defs>
+    <image href="https://github.com/pohorelov-oleh.png" width="100" height="100" clip-path="url(#hexagon)"/>
+  </svg>
 </p>
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
