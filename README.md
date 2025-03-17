@@ -19,7 +19,7 @@
 
 #### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
 
-**B2B Platform for Distributor Orders** - **Click to overview project**  
+##### **B2B Platform for Distributor Orders** - **Click to overview project**  
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
 
 - Simplified the process of creating and tracking orders.
