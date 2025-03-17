@@ -1,4 +1,4 @@
-### Oleh Pohorelov - Junior .NET Developer
+### Oleh Pohorelov - .NET Developer
 
 📧 pohorelov.oe@gmail.com | 📱 +38 (097) 094 86 78 | [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/) | [GitHub](https://github.com/pohorelov-oleh/)
 
@@ -19,7 +19,7 @@
 
 #### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
 
-**B2B Platform for Distributor Orders** - Click to overview project  
+**B2B Platform for Distributor Orders** - **Click to overview project**  
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
 
 - Simplified the process of creating and tracking orders.
@@ -30,7 +30,7 @@ A web platform developed to automate the processing of distributor orders. Befor
 
 ---
 
-**Inventory Management System for Retail Equipment** - Click to overview project
+**Inventory Management System for Retail Equipment** - **Click to overview project**
 An inventory management system for retail equipment that replaced Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.
 
 - Implemented a hierarchical structure for equipment accounting by regions, districts, and municipalities.
@@ -42,7 +42,7 @@ An inventory management system for retail equipment that replaced Excel spreadsh
 
 ---
 
-**B2B Platform for Kryvoozerska Bakery Orders** - Click to overview project 
+**B2B Platform for Kryvoozerska Bakery Orders** - **Click to overview project** 
 A platform for bakery product orders that optimized the client order processing workflow.
 
 - Developed a user-friendly product catalog with filtering and sorting options.
