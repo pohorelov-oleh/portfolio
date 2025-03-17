@@ -1,24 +1,3 @@
-<!-- <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
-
-<p align="center">
-  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
-  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/">GitHub</a>
-</p> -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/pohorelov-oleh.png" width="150" style="border-radius: 50%;">
-    </td>
-    <td>
-      <h1>Oleh Pohorelov - .NET Developer</h1>
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -38,6 +17,20 @@
 
 ---
 
+### 🔧 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
 #### SKILLS & TECHNOLOGIES
 
 - **Software Development:** C#, ASP.NET Core (MVC, REST API), MAUI (basic), Entity Framework Core, MSSQL (T-SQL, LINQ), Design Patterns, HTML, CSS, JavaScript
