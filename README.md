@@ -8,8 +8,8 @@
 </p> -->
 <table>
   <tr>
-    <td width="120">
-      <img src="https://github.com/pohorelov-oleh.png" width="120" style="border-radius: 50%;">
+    <td width="200">
+      <img src="https://github.com/pohorelov-oleh.png" width="200" style="border-radius: 50%;">
     </td>
     <td>
       <h1>Oleh Pohorelov - .NET Developer</h1>
