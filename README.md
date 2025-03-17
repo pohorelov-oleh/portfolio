@@ -1,6 +1,6 @@
 ### Oleh Pohorelov - .NET Developer
 
-📧 pohorelov.oe@gmail.com | 📱 +38 (097) 094 86 78 | [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/) | [GitHub](https://github.com/pohorelov-oleh/)
+📧 pohorelov.oe@gmail.com   |   📱 +38 (097) 094 86 78   |   [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/)   |   [GitHub](https://github.com/pohorelov-oleh/)
 
 ---
 
