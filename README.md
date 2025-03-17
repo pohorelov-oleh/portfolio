@@ -1,12 +1,12 @@
 <!-- ### Oleh Pohorelov - .NET Developer -->
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 
-<!-- 📧 pohorelov.oe@gmail.comㅤㅤㅤ|ㅤㅤㅤ📱 +38 (097) 094 86 78ㅤㅤㅤ|ㅤㅤㅤ[LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/)ㅤㅤㅤ|ㅤㅤㅤ[GitHub](https://github.com/pohorelov-oleh/) -->
-# Oleh Pohorelov - .NET Developer
-
-| 📧 Email  | 📱 Phone  | 🌐 LinkedIn  | 💻 GitHub  |
-|-----------|----------|-------------|------------|
-| [pohorelov.oe@gmail.com](mailto:pohorelov.oe@gmail.com) | +38 (097) 094 86 78 | [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/) | [GitHub](https://github.com/pohorelov-oleh/) |
+<p align="center">
+  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
+  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/pohorelov-oleh/">GitHub</a>
+</p>
 
 ---
 
