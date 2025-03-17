@@ -6,19 +6,15 @@
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
-<table>
-  <tr>
-    <td width="200">
-      <img src="https://github.com/pohorelov-oleh.png" width="200" style="border-radius: 50%;">
-    </td>
-    <td>
-      <h1>Oleh Pohorelov - .NET Developer</h1>
-      <p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github.com/pohorelov-oleh.png" width="150" style="border-radius: 50%;">
+  <div>
+    <h1 style="margin: 0;">Oleh Pohorelov - .NET Developer</h1>
+    <p>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
+    </p>
+  </div>
+</div>
 
 ---
 
