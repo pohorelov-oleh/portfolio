@@ -7,20 +7,9 @@
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
 <p align="center">
-  <svg width="140" height="140">
-    <defs>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <circle cx="70" cy="70" r="65" fill="none" stroke="#F7A62F" stroke-width="5" filter="url(#glow)"/>
-    <image href="https://github.com/pohorelov-oleh.png" x="10" y="10" height="120" width="120" clip-path="circle(50% at 50% 50%)"/>
-  </svg>
+  <img src="https://github.com/pohorelov-oleh.png" width="120" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(255, 215, 0, 0.8);">
 </p>
+
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 
