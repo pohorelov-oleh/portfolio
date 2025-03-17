@@ -3,7 +3,7 @@
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
 </p>
 
 ---
