@@ -7,20 +7,25 @@
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
 <p align="center">
-  <svg width="140" height="140" viewBox="0 0 100 100">
+  <svg width="140" height="140">
     <defs>
-      <clipPath id="hexagon">
-        <polygon points="50,2 98,25 98,75 50,98 2,75 2,25"/>
-      </clipPath>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
     </defs>
-    <image href="https://github.com/pohorelov-oleh.png" width="100" height="100" clip-path="url(#hexagon)"/>
+    <circle cx="70" cy="70" r="65" fill="none" stroke="#F7A62F" stroke-width="5" filter="url(#glow)"/>
+    <image href="https://github.com/pohorelov-oleh.png" x="10" y="10" height="120" width="120" clip-path="circle(50% at 50% 50%)"/>
   </svg>
 </p>
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=F7A62F&center=true&vCenter=true&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;A+passionate+.NET+developer;Building+B2B+platforms+for+business;Let's+build+something+amazing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=500&color=F7A62F&center=true&vCenter=true&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
 </p>
 
 <p align="center">
