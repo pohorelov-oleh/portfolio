@@ -6,15 +6,19 @@
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p> -->
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github.com/pohorelov-oleh.png" width="250" style="border-radius: 50%;">
-  <div>
-    <h1 style="margin: 0;">Oleh Pohorelov - .NET Developer</h1>
-    <p>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/pohorelov-oleh.png" width="150" style="border-radius: 50%;">
+    </td>
+    <td>
+      <h1>Oleh Pohorelov - .NET Developer</h1>
+      <p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=500&color=F7A62F&width=600&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,7 +28,6 @@
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">GitHub</a>
 </p>
-
 
 ---
 
