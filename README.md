@@ -12,7 +12,7 @@ Junior .NET Developer with 1.5 years of experience in designing and implementing
 
 ## 🛠️ Skills & Technologies
 
-### **Software Development**
+###### **Software Development**
 - **Languages:** C#
 - **Frameworks:** ASP.NET Core (MVC, REST API), MAUI (basic)
 - **ORM & Databases:** Entity Framework Core, MSSQL (T-SQL, LINQ)
