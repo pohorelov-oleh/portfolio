@@ -9,17 +9,16 @@
 ---
 
 <p align="center">
-  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
+  📧 [pohorelov.oe@gmail.com](mailto:pohorelov.oe@gmail.com) &nbsp; | &nbsp;
   📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
-    LinkedIn
   </a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20">
-    GitHub
   </a>
 </p>
+
 
 ---
 
