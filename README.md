@@ -27,6 +27,15 @@
 
 ---
 
+#### About me
+
+.NET Developer with 1,5 year of experience in designing and implementing web
+applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully
+automated business processes, reducing time and errors in production environments
+
+---
+
+
 ### 🔧 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -87,7 +96,6 @@ A platform for bakery product orders that optimized the client order processing 
 - Integrated with the ERP system via order export to a file for further import.
 - Enabled email notifications for clients regarding order status updates.
 - Reduced workload for operators but did not fully replace the manual order processing.
-- Put into operation in mid-2024.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
 
