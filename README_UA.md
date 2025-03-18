@@ -1,12 +1,13 @@
 
 ---
 <p align="right">
-  🇺🇦 <a href="README_UA.md">Українська</a>  
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1e6.svg" width="20">  
+  <a href="README_UA.md">Українська</a>  
 </p>
 <p align="right">
-  🇺🇸 <a href="README.md">English</a>  
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1fa-1f1f8.svg" width="20">  
+  <a href="README.md">English</a>  
 </p>
-
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
