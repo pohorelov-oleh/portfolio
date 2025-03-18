@@ -8,16 +8,10 @@
 
 ---
 
-<p align="center">
-  📧 [pohorelov.oe@gmail.com](mailto:pohorelov.oe@gmail.com) &nbsp; | &nbsp;
-  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
-  </a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20">
-  </a>
-</p>
+📧 [pohorelov.oe@gmail.com](mailto:pohorelov.oe@gmail.com)  
+📱 +38 (097) 094 86 78  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pohorelov-oleh/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pohorelov-oleh/)
 
 
 ---
