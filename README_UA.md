@@ -12,7 +12,7 @@
 
 <h1 align="center">Олег Погорелов - .NET Розробник</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Привіт,+я+Олег+Погорєлов!;Давайте+створимо+щось+дивовижне!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Привіт,+мене+звуть+Олег!;Давайте+створимо+щось+круте!">
 </div>
 
 ---
