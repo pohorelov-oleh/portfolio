@@ -1,52 +1,83 @@
+<style>
+  body {
+    font-size: 0.9em;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 2.5em;
+  }
+  .badge {
+    font-size: 0.8em;
+  }
+</style>
 
----
 <p align="right">
   <img src="assets/images/Flag_of_Ukraine_(dark_blue).svg" width="20">  
-  <strong>Українська (обрана)</strong>  
+  <a href="README_UA.md">Switch to Ukrainian</a>  
 </p>
 <p align="right">
   <img src="assets/images/Flag_of_the_United_States.svg" width="20">  
-  <a href="README.md">Switch to English</a>  
+  <strong>English (current)</strong>  
 </p>
 
-<h1 align="center">Oleh Pohorelov - .NET Developer</h1>
+---
 
+<h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
 </div>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
-  📱 <a href="tel:+380970948678">+38 (097) 094 86 78</a> &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
-    LinkedIn
-  </a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20">
-    GitHub  
+  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/pohorelov-oleh/">GitHub</a>
+</p> -->
+
+### 📩 Connect with me  
+<p align="center">
+  <a href="mailto:pohorelov.oe@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-pohorelov.oe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="badge">
+  </a>
+  
+  <a href="tel:+380970948678">
+    <img src="https://img.shields.io/badge/📱%20Mobile-+38%20(097)%20094%2086%2078-1DA1F2?style=for-the-badge&logo=phone&logoColor=white" class="badge">
+  </a>
+
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/">
+    <img src="https://img.shields.io/badge/%20LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="badge">
+  </a>
+
+  <a href="https://github.com/pohorelov-oleh/">
+    <img src="https://img.shields.io/badge/%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" class="badge">
   </a>
 </p>
 
+---
+
+#### About me
+
+.NET Developer with 1,5 year of experience in designing and implementing web applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully automated business processes, reducing time and errors in production environments.
 
 ---
 
 ### 🔧 Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" class="badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" class="badge">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" class="badge">
 </p>
 
 ---
+
 #### SKILLS & TECHNOLOGIES
 
 - **Software Development:** C#, ASP.NET Core (MVC, REST API), MAUI (basic), Entity Framework Core, MSSQL (T-SQL, LINQ), Design Patterns, HTML, CSS, JavaScript
@@ -93,10 +124,8 @@ A platform for bakery product orders that optimized the client order processing 
 - Integrated with the ERP system via order export to a file for further import.
 - Enabled email notifications for clients regarding order status updates.
 - Reduced workload for operators but did not fully replace the manual order processing.
-- Put into operation in mid-2024.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
-
 
 ---
 
@@ -113,5 +142,5 @@ A platform for bakery product orders that optimized the client order processing 
 #### 🚀 Let's Connect!
 💼 [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/)  
 📩 pohorelov.oe@gmail.com  
-📱 +38 (097) 094 86 78
+📱 +38 (097) 094 86 78  
 📍 Kryve Ozero, Ukraine  
