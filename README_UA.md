@@ -1,10 +1,10 @@
 
 ---
 <p align="right">
-  🌍 <a href="README_UA.md">🇺🇦 Українська</a>
+  🇺🇦 <a href="README_UA.md">Українська</a>  
 </p>
 <p align="right">
-  🌍 <a href="README.md">en English</a>
+  🇺🇸 <a href="README.md">English</a>  
 </p>
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
