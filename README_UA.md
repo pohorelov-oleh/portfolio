@@ -16,10 +16,11 @@
     LinkedIn
   </a> &nbsp; | &nbsp;
   <a href="https://github.com/pohorelov-oleh/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="20">
+    <img src="assets/images/github-mark.svg" alt="GitHub" width="20">
     GitHub  
   </a>
 </p>
+
 
 ---
 
