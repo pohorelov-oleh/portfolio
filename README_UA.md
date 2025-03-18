@@ -1,37 +1,54 @@
-
 ---
+
 <p align="right">
   <img src="assets/images/Flag_of_Ukraine_(dark_blue).svg" width="20">  
-  <strong>Українська (обрана)</strong>  
+  <a href="README_UA.md">Switch to Ukrainian</a>  
 </p>
 <p align="right">
   <img src="assets/images/Flag_of_the_United_States.svg" width="20">  
-  <a href="README.md">Switch to English</a>  
+  <strong>English (current)</strong>  
 </p>
 
-<h1 align="center">Oleh Pohorelov - .NET Developer</h1>
+---
 
+<h1 align="center">Oleh Pohorelov - .NET Developer</h1>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
 </div>
 
 ---
 
+### 📩 Connect with me  
 <p align="center">
-  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
-  📱 <a href="tel:+380970948678">+38 (097) 094 86 78</a> &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
-    LinkedIn
-  </a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20">
-    GitHub  
+  <a href="mailto:pohorelov.oe@gmail.com">
+    <img src="https://img.shields.io/badge/%20Email-pohorelov.oe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="tel:+380970948678">
+    <img src="https://img.shields.io/badge/📱%20Mobile-+38%20(097)%20094%2086%2078-1DA1F2?style=for-the-badge&logo=phone&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/">
+    <img src="https://img.shields.io/badge/%20LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="https://github.com/pohorelov-oleh/">
+    <img src="https://img.shields.io/badge/%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 
+
 ---
+
+#### About me
+
+.NET Developer with 1,5 year of experience in designing and implementing web
+applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully
+automated business processes, reducing time and errors in production environments
+
+---
+
 
 ### 🔧 Tech Stack  
 <p align="center">
@@ -62,7 +79,7 @@
 
 #### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
 
-#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary.md)
+#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary_en.md)
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
 
 - Simplified the process of creating and tracking orders.
@@ -73,7 +90,7 @@ A web platform developed to automate the processing of distributor orders. Befor
 
 ---
 
-#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](https://store.hsf.company)
+#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](projects/kretailpro/summary_en.md)
 An inventory management system for retail equipment that replaced Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.
 
 - Implemented a hierarchical structure for equipment accounting by regions, districts, and municipalities.
@@ -85,7 +102,7 @@ An inventory management system for retail equipment that replaced Excel spreadsh
 
 ---
 
-#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](https://store.hsf.company) 
+#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](projects/b2b-krivoozerska-bakery/summary_en.md) 
 A platform for bakery product orders that optimized the client order processing workflow.
 
 - Developed a user-friendly product catalog with filtering and sorting options.
@@ -93,9 +110,35 @@ A platform for bakery product orders that optimized the client order processing 
 - Integrated with the ERP system via order export to a file for further import.
 - Enabled email notifications for clients regarding order status updates.
 - Reduced workload for operators but did not fully replace the manual order processing.
-- Put into operation in mid-2024.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
+
+---
+
+### **4. Krivoozerska Pallet Mark - WPF Desktop App** | [Click to overview project](projects/krivoozerska-pallet-mark/summary_en.md)
+A WPF application for automating pallet labeling in mineral water production, replacing handwritten paper labels.
+
+- Divides input fields into **two categories**:
+  - **Label Data (printed on Xprinter thermal printer)**: Brand, Product, Manufacturing Date, Batch, Bottle Count, Packs per Row/Pallet, Gross Weight (kg).
+  - **Barcode Data (encoded for tracking)**: Water Type, Master, Line, Shift, Work Period, Date.
+- Provides a **real-time label preview** before printing.
+- Supports **bulk printing** for efficiency.
+
+**Technologies:** WPF (.NET 9), XAML, C#, Xprinter Thermal Printer, Barcode Generation  
+
+---
+
+### 5. **Krivoozerska Official Website** | [Click to overview project](projects/krivoozerska-website/summary_en.md)  
+A modern and visually appealing **ASP.NET Core-based website** for the **Krivoozerska** mineral water brand, designed to enhance brand recognition and user engagement.
+
+- **Dynamic content management** powered by **ASP.NET Core & Entity Framework Core**.  
+- **Automated email notifications** via **Microsoft Graph API** for inquiries and partner communications.  
+- **Product catalog & company info pages** with structured navigation.  
+- **Responsive design**, ensuring smooth performance across all devices.  
+- **Database-driven content** with **MSSQL** for product details, news, and partner requests.  
+- **Contact integration** with direct call and email buttons for quick communication.
+
+**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, Microsoft Graph API, Bootstrap, JavaScript  
 
 
 ---
