@@ -2,11 +2,11 @@
 ---
 <p align="right">
   <img src="assets/images/Flag_of_Ukraine_(dark_blue).svg" width="20">  
-  <a href="README_UA.md">Switch to Ukrainian</a>  
+  <strong>Українська (обрана)</strong>  
 </p>
 <p align="right">
   <img src="assets/images/Flag_of_the_United_States.svg" width="20">  
-  <strong>Switch to English</strong>  
+  <a href="README.md">Switch to English</a>  
 </p>
 
 <h1 align="center">Oleh Pohorelov - .NET Developer</h1>
