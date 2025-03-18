@@ -28,7 +28,7 @@
 ### 📩 Connect with me  
 <p align="center">
   <a href="mailto:pohorelov.oe@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-pohorelov.oe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/%20Email-pohorelov.oe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="tel:+380970948678">
@@ -36,11 +36,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/%20LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://github.com/pohorelov-oleh/">
-    <img src="https://img.shields.io/badge/💻%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
