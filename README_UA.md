@@ -9,14 +9,14 @@
 ---
 
 <p align="center">
-  📧 [pohorelov.oe@gmail.com](mailto:pohorelov.oe@gmail.com) &nbsp; | &nbsp;
-  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/">
+  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
+  📱 <a href="tel:+380970948678">+38 (097) 094 86 78</a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/pohorelov-oleh/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="20">
     LinkedIn
   </a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/">
-    <img src="assets/images/github-mark-white.png" alt="GitHub" width="20">
+  <a href="https://github.com/pohorelov-oleh/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="20">
     GitHub  
   </a>
 </p>
