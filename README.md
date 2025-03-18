@@ -2,11 +2,11 @@
 
 <p align="right">
   <img src="assets/images/Flag_of_Ukraine_(dark_blue).svg" width="20">  
-  <a href="README_UA.md">Switch to Ukrainian</a>  
+  <strong>Українською</strong>  
 </p>
 <p align="right">
   <img src="assets/images/Flag_of_the_United_States.svg" width="20">  
-  <strong>English (current)</strong>  
+  <a href="README.md">Switch to English</a>   
 </p>
 
 ---
@@ -17,13 +17,6 @@
 </div>
 
 ---
-
-<!-- <p align="center">
-  📧 <a href="mailto:pohorelov.oe@gmail.com">pohorelov.oe@gmail.com</a> &nbsp; | &nbsp;
-  📱 +38 (097) 094 86 78 &nbsp; | &nbsp;
-  <a href="https://www.linkedin.com/in/pohorelov-oleh/">LinkedIn</a> &nbsp; | &nbsp;
-  <a href="https://github.com/pohorelov-oleh/">GitHub</a>
-</p> -->
 
 ### 📩 Connect with me  
 <p align="center">
@@ -86,7 +79,7 @@ automated business processes, reducing time and errors in production environment
 
 #### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
 
-#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary.md)
+#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary_en.md)
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
 
 - Simplified the process of creating and tracking orders.
@@ -97,7 +90,7 @@ A web platform developed to automate the processing of distributor orders. Befor
 
 ---
 
-#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](https://store.hsf.company)
+#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](projects/kretailpro/summary_en.md)
 An inventory management system for retail equipment that replaced Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.
 
 - Implemented a hierarchical structure for equipment accounting by regions, districts, and municipalities.
@@ -109,7 +102,7 @@ An inventory management system for retail equipment that replaced Excel spreadsh
 
 ---
 
-#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](https://store.hsf.company) 
+#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](projects/b2b-krivoozerska-bakery/summary_en.md) 
 A platform for bakery product orders that optimized the client order processing workflow.
 
 - Developed a user-friendly product catalog with filtering and sorting options.
@@ -119,6 +112,33 @@ A platform for bakery product orders that optimized the client order processing 
 - Reduced workload for operators but did not fully replace the manual order processing.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
+
+---
+
+### **4. Krivoozerska Pallet Mark - WPF Desktop App** | [Click to overview project](projects/krivoozerska-pallet-mark/summary_en.md)
+A WPF application for automating pallet labeling in mineral water production, replacing handwritten paper labels.
+
+- Divides input fields into **two categories**:
+  - **Label Data (printed on Xprinter thermal printer)**: Brand, Product, Manufacturing Date, Batch, Bottle Count, Packs per Row/Pallet, Gross Weight (kg).
+  - **Barcode Data (encoded for tracking)**: Water Type, Master, Line, Shift, Work Period, Date.
+- Provides a **real-time label preview** before printing.
+- Supports **bulk printing** for efficiency.
+
+**Technologies:** WPF (.NET 9), XAML, C#, Xprinter Thermal Printer, Barcode Generation  
+
+---
+
+### 5. **Krivoozerska Official Website** | [Click to overview project](projects/krivoozerska-website/summary_en.md)  
+A modern and visually appealing **ASP.NET Core-based website** for the **Krivoozerska** mineral water brand, designed to enhance brand recognition and user engagement.
+
+- **Dynamic content management** powered by **ASP.NET Core & Entity Framework Core**.  
+- **Automated email notifications** via **Microsoft Graph API** for inquiries and partner communications.  
+- **Product catalog & company info pages** with structured navigation.  
+- **Responsive design**, ensuring smooth performance across all devices.  
+- **Database-driven content** with **MSSQL** for product details, news, and partner requests.  
+- **Contact integration** with direct call and email buttons for quick communication.
+
+**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, Microsoft Graph API, Bootstrap, JavaScript  
 
 
 ---

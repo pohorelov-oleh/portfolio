@@ -1,8 +1,7 @@
 ---
-
 <p align="right">
   <img src="assets/images/Flag_of_Ukraine_(dark_blue).svg" width="20">  
-  <strong>Читати українською</strong>  
+  <strong>Українською</strong>  
 </p>
 <p align="right">
   <img src="assets/images/Flag_of_the_United_States.svg" width="20">  
@@ -11,46 +10,41 @@
 
 ---
 
-<h1 align="center">Oleh Pohorelov - .NET Developer</h1>
+<h1 align="center">Олег Погорєлов - .NET Розробник</h1>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Hello,+I'm+Oleh+Pohorelov!;Let's+build+something+amazing!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=400&color=F7A62F&width=700&center=true&vCenter=true&lines=Привіт,+я+Олег+Погорєлов!;Давайте+створимо+щось+дивовижне!">
 </div>
 
 ---
 
-### 📩 Connect with me  
+### 📩 Контакти  
 <p align="center">
   <a href="mailto:pohorelov.oe@gmail.com">
     <img src="https://img.shields.io/badge/%20Email-pohorelov.oe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="tel:+380970948678">
-    <img src="https://img.shields.io/badge/📱%20Mobile-+38%20(097)%20094%2086%2078-1DA1F2?style=for-the-badge&logo=phone&logoColor=white">
+    <img src="https://img.shields.io/badge/📱%20Мобільний-+38%20(097)%20094%2086%2078-1DA1F2?style=for-the-badge&logo=phone&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/pohorelov-oleh/">
-    <img src="https://img.shields.io/badge/%20LinkedIn-View%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/%20LinkedIn-Переглянути%20профіль-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://github.com/pohorelov-oleh/">
-    <img src="https://img.shields.io/badge/%20GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/%20GitHub-Переглянути%20профіль-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
+---
 
+#### Про мене
+
+.NET-розробник із 1,5-річним досвідом у проєктуванні та розробці веб-застосунків на базі ASP.NET Core, Entity Framework Core та MSSQL Server. Успішно автоматизував бізнес-процеси, зменшуючи час і кількість помилок у виробничому середовищі.
 
 ---
 
-#### About me
-
-.NET Developer with 1,5 year of experience in designing and implementing web
-applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully
-automated business processes, reducing time and errors in production environments
-
----
-
-
-### 🔧 Tech Stack  
+### 🔧 Технологічний стек  
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -64,97 +58,97 @@ automated business processes, reducing time and errors in production environment
 </p>
 
 ---
-#### SKILLS & TECHNOLOGIES
 
-- **Software Development:** C#, ASP.NET Core (MVC, REST API), MAUI (basic), Entity Framework Core, MSSQL (T-SQL, LINQ), Design Patterns, HTML, CSS, JavaScript
-- **Languages:** English - Intermediate (B1), Ukrainian - Native
-- **DevOps & Tools:** Git, GitHub, Azure (basic)
-- **System Administration:** Windows Server 2022, Local Networks
-- **Tools:** Visual Studio, Microsoft Office (Word, Excel, PowerPoint), Figma, Canva
-- **Soft Skills:** Problem-solving, Teamwork, Adaptability
+#### НАВИЧКИ ТА ТЕХНОЛОГІЇ
 
----
-
-### TECHNICAL EXPERIENCE
-
-#### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
-
-#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary_en.md)
-A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
-
-- Simplified the process of creating and tracking orders.
-- Implemented personalized price lists, order history, internal messaging, and a notification system.
-- Enabled export to .csv for further import into the ERP system.
-
-**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Microsoft Graph API (Email notify)
+- **Розробка ПЗ:** C#, ASP.NET Core (MVC, REST API), MAUI (базовий рівень), Entity Framework Core, MSSQL (T-SQL, LINQ), Патерни проєктування, HTML, CSS, JavaScript  
+- **Мови:** Англійська - Середній (B1), Українська - Рідна  
+- **DevOps & Інструменти:** Git, GitHub, Azure (базовий рівень)  
+- **Системне адміністрування:** Windows Server 2022, Локальні мережі  
+- **Інструменти:** Visual Studio, Microsoft Office (Word, Excel, PowerPoint), Figma, Canva  
+- **Soft Skills:** Вирішення проблем, Робота в команді, Адаптивність  
 
 ---
 
-#### **2. Inventory Management System for Retail Equipment** | [Click to overview project](projects/kretailpro/summary_en.md)
-An inventory management system for retail equipment that replaced Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.
+### ТЕХНІЧНИЙ ДОСВІД
 
-- Implemented a hierarchical structure for equipment accounting by regions, districts, and municipalities.
-- Integrated Google Maps API to display equipment locations and track check-ins.
-- Introduced QR codes for quick access to equipment details.
-- Enabled report export in .xlsx format and analytics on photo availability and geolocation.
+#### ТОВ "КРИВООЗЕРСЬКА" 📅 **10.2021 – 12.2024**
 
-**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Google Maps API, Microsoft Graph API (Email notify)
+#### **1. B2B-платформа для замовлень дистриб'юторів** | [Огляд проєкту](projects/krivoozerska-ua/summary_ua.md)
+Веб-платформа, створена для автоматизації обробки замовлень дистриб'юторів. До її впровадження замовлення отримували через електронну пошту у вигляді окремих файлів, що вимагало ручного введення в ERP-систему.
 
----
+- Спрощено процес створення та відстеження замовлень.
+- Реалізовано персоналізовані прайс-листи, історію замовлень, внутрішню систему повідомлень та сповіщень.
+- Додано можливість експорту в .csv для подальшого імпорту в ERP-систему.
 
-#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](projects/b2b-krivoozerska-bakery/summary_en.md) 
-A platform for bakery product orders that optimized the client order processing workflow.
-
-- Developed a user-friendly product catalog with filtering and sorting options.
-- Implemented order history, reordering functionality, and a return management system.
-- Integrated with the ERP system via order export to a file for further import.
-- Enabled email notifications for clients regarding order status updates.
-- Reduced workload for operators but did not fully replace the manual order processing.
-
-**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
+**Технології:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Microsoft Graph API (сповіщення на email)
 
 ---
 
-### **4. Krivoozerska Pallet Mark - WPF Desktop App** | [Click to overview project](projects/krivoozerska-pallet-mark/summary_en.md)
-A WPF application for automating pallet labeling in mineral water production, replacing handwritten paper labels.
+#### **2. Система управління обліком торгового обладнання** | [Огляд проєкту](projects/kretailpro/summary_ua.md)
+Система обліку торгового обладнання, що замінила використання Excel-таблиць і забезпечила автоматизований контроль розміщення холодильників та полиць.
 
-- Divides input fields into **two categories**:
-  - **Label Data (printed on Xprinter thermal printer)**: Brand, Product, Manufacturing Date, Batch, Bottle Count, Packs per Row/Pallet, Gross Weight (kg).
-  - **Barcode Data (encoded for tracking)**: Water Type, Master, Line, Shift, Work Period, Date.
-- Provides a **real-time label preview** before printing.
-- Supports **bulk printing** for efficiency.
+- Реалізовано ієрархічну структуру обліку обладнання за регіонами, районами та населеними пунктами.
+- Інтегровано Google Maps API для відображення місцезнаходження обладнання та відстеження перевірок.
+- Додано QR-коди для швидкого доступу до інформації про обладнання.
+- Реалізовано експорт звітів у форматі .xlsx та аналітику за наявністю фото та геолокації.
 
-**Technologies:** WPF (.NET 9), XAML, C#, Xprinter Thermal Printer, Barcode Generation  
-
----
-
-### 5. **Krivoozerska Official Website** | [Click to overview project](projects/krivoozerska-website/summary_en.md)  
-A modern and visually appealing **ASP.NET Core-based website** for the **Krivoozerska** mineral water brand, designed to enhance brand recognition and user engagement.
-
-- **Dynamic content management** powered by **ASP.NET Core & Entity Framework Core**.  
-- **Automated email notifications** via **Microsoft Graph API** for inquiries and partner communications.  
-- **Product catalog & company info pages** with structured navigation.  
-- **Responsive design**, ensuring smooth performance across all devices.  
-- **Database-driven content** with **MSSQL** for product details, news, and partner requests.  
-- **Contact integration** with direct call and email buttons for quick communication.
-
-**Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, Microsoft Graph API, Bootstrap, JavaScript  
-
+**Технології:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Google Maps API, Microsoft Graph API (сповіщення на email)
 
 ---
 
-#### EDUCATION
+#### **3. B2B-платформа для замовлення продукції Кривоозерської пекарні** | [Огляд проєкту](projects/b2b-krivoozerska-bakery/summary_ua.md)  
+Платформа для замовлення хлібобулочних виробів, що оптимізувала процес обробки клієнтських замовлень.
 
-🎓 **Bachelor's Degree in Applied Mechanics** *(2021 – 2024)*  
-📍 *Pervomaisk Educational and Scientific Institute of Admiral Makarov National University of Shipbuilding*
+- Розроблено зручний каталог продукції з можливістю фільтрації та сортування.
+- Реалізовано історію замовлень, функцію повторного замовлення та систему обробки повернень.
+- Інтегровано з ERP-системою через експорт замовлень у файл для подальшого імпорту.
+- Реалізовано email-сповіщення клієнтів щодо оновлення статусу замовлення.
+- Зменшено навантаження на операторів, але не повністю автоматизовано обробку замовлень.
 
-🎓 **Junior Specialist in Computer Engineering** *(2017 – 2021)*  
-📍 *Vocational College of Admiral Makarov National University of Shipbuilding, Pervomaisk*
+**Технології:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
 
 ---
 
-#### 🚀 Let's Connect!
+### **4. Krivoozerska Pallet Mark - WPF-десктопний додаток** | [Огляд проєкту](projects/krivoozerska-pallet-mark/summary_ua.md)  
+WPF-застосунок для автоматизації маркування піддонів у виробництві мінеральної води, що замінив ручне заповнення паперових етикеток.
+
+- Поля введення поділяються на **дві категорії**:
+  - **Дані для етикетки (друкуються на Xprinter термопринтері)**: Бренд, Продукт, Дата виготовлення, Партія, Кількість пляшок, Розташування в ряду/на піддоні, Вага (кг).
+  - **Дані для штрихкоду (кодуються для відстеження)**: Тип води, Майстер, Лінія, Зміна, Робочий період, Дата.
+- Надає **попередній перегляд етикетки** у реальному часі перед друком.
+- Підтримує **масовий друк** для підвищення ефективності.
+
+**Технології:** WPF (.NET 9), XAML, C#, Xprinter Thermal Printer, Генерація штрихкодів  
+
+---
+
+### **5. Офіційний сайт Кривоозерська** | [Огляд проєкту](projects/krivoozerska-website/summary_ua.md)  
+Сучасний та візуально привабливий **веб-сайт на ASP.NET Core** для бренду **Кривоозерська**, створений для підвищення впізнаваності бренду та взаємодії з клієнтами.
+
+- **Динамічне управління контентом**, побудоване на **ASP.NET Core та Entity Framework Core**.  
+- **Автоматизовані email-сповіщення** через **Microsoft Graph API** для запитів і зв’язку з партнерами.  
+- **Каталог продукції та сторінки компанії** зі структурованою навігацією.  
+- **Адаптивний дизайн**, що забезпечує плавну роботу на будь-яких пристроях.  
+- **База даних MSSQL**, що містить інформацію про продукцію, новини та запити партнерів.  
+- **Форма зворотного зв’язку** з можливістю швидкого дзвінка та відправки електронного листа.
+
+**Технології:** ASP.NET Core, Entity Framework Core, MSSQL, Microsoft Graph API, Bootstrap, JavaScript  
+
+---
+
+#### ОСВІТА
+
+🎓 **Бакалавр з прикладної механіки** *(2021 – 2024)*  
+📍 *Первомайський навчально-науковий інститут Національного університету кораблебудування ім. адмірала Макарова*  
+
+🎓 **Молодший спеціаліст з комп'ютерної інженерії** *(2017 – 2021)*  
+📍 *Первомайський фаховий коледж Національного університету кораблебудування ім. адмірала Макарова*  
+
+---
+
+#### 🚀 Долучайся!
 💼 [LinkedIn](https://www.linkedin.com/in/pohorelov-oleh/)  
 📩 pohorelov.oe@gmail.com  
-📱 +38 (097) 094 86 78
-📍 Kryve Ozero, Ukraine  
+📱 +38 (097) 094 86 78  
+📍 Криве Озеро, Україна  
