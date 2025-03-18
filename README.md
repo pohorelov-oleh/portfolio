@@ -46,7 +46,7 @@
 
 #### LLC "KRYVOOZERSKA" 📅 **10.2021 – 12.2024**
 
-#### **1. B2B Platform for Distributor Orders** | [Click to overview project](https://store.hsf.company)
+#### **1. B2B Platform for Distributor Orders** | [Click to overview project](projects/krivoozerska-ua/summary.md)
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system.
 
 - Simplified the process of creating and tracking orders.
