@@ -161,13 +161,3 @@ A modern and visually appealing **ASP.NET Core-based website** for the **Krivooz
 
 ---
 
-## 🏗 Архітектура
-
-Проєкт побудований за принципом **MVC (Model-View-Controller)**, що забезпечує розділення логіки, зручність підтримки та розширюваність.
-
-📂 KRetailPro Solution
-├── 📁 Controllers – контролери API
-├── 📁 Models – моделі бази даних
-├── 📁 Views – представлення UI
-├── 📁 Services – логіка роботи з API
-└── 📁 wwwroot – стилі, скрипти, статичні файли
