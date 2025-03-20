@@ -102,7 +102,7 @@ An inventory management system for retail equipment that replaced Excel spreadsh
 
 ---
 
-#### **3. B2B Platform for Kryvoozerska Bakery Orders** | [Click to overview project](projects/b2b-krivoozerska-bakery/summary_en.md) 
+#### **3. B2B Platform and main website for Kryvoozerska Bakery** | [Click to overview project](projects/b2b-krivoozerska-bakery/summary_en.md) 
 A platform for bakery product orders that optimized the client order processing workflow.
 
 - Developed a user-friendly product catalog with filtering and sorting options.
