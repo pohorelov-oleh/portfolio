@@ -43,7 +43,7 @@
 
 #### About Me
 
-.NET developer with 1.5 years of experience in designing and developing web applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully automated business processes, reducing time and errors in a production environment.
+.NET developer with 2 years of experience in designing and developing web applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully automated business processes, reducing time and errors in a production environment.
 
 ---
 
