@@ -43,7 +43,7 @@
 
 #### About Me
 
-.NET developer with 2 years of experience in designing and developing web applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully automated business processes, reducing time and errors in a production environment.
+.NET developer with 3 years of experience in designing and developing web applications using ASP.NET Core, Entity Framework Core, and MSSQL Server. Successfully automated business processes, reducing time and errors in a production environment.
 
 ---
 
@@ -62,28 +62,44 @@
 </p>
 
 ---
+
 #### SKILLS & TECHNOLOGIES
 
-- **Software Development:** C#, ASP.NET Core (MVC, REST API), MAUI (basic), Entity Framework Core, MSSQL (T-SQL, LINQ), Design Patterns, HTML, CSS, JavaScript
+- **Back-end:** C#, ASP.NET Core (MVC, REST), Entity Framework, LINQ  
+- **Delivery:** CI/CD, Docker, WiX Toolset (MSI installers), Azure DevOps, Web Deploy  
+- **DB:** MSSQL, MySQL/MariaDB, PostgreSQL  
+- **Frontend / Client:** Blazor Server, MAUI Hybrid (basic), HTML, JS, CSS  
+- **Other:** Git/GitHub, Postman, Stripe, PayPal  
 - **Languages:** English - Intermediate (B1), Ukrainian - Native
-- **DevOps & Tools:** Git, GitHub, Azure (basic)
-- **System Administration:** Windows Server 2022, Local Networks
-- **Tools:** Visual Studio, Microsoft Office (Word, Excel, PowerPoint), Figma, Canva
-- **Soft Skills:** Problem-solving, Teamwork, Adaptability
 
 ---
 
 ### TECHNICAL EXPERIENCE
 
-#### LLC "KRYVOOZERSKA KhSF" 📅 **10.2021 – 12.2024**
+---
+
+#### **INtenseLab** 📅 **01.2025 – Present**
+#### **2. Fintech – Market Data & Online Brokerage Platform** 
+Worked on a .NET MAUI desktop app for real-time trading analytics and portfolio monitoring.  
+Maintained and modernized **WPF components**, built a **Wix v6 installer** from scratch for deployment automation.  
+Worked on **Blazor Server/WASM** dashboards for market data visualization.  
+Contributed to **CI/CD pipelines in Microsoft Azure DevOps** and **deployment of .NET services on Linux**.  
+Integrated **Kafka** and **PostgreSQL** for real-time data streaming and persistence.  
+**Technologies:** .NET 8, MAUI, WPF, Blazor, PostgreSQL, Kafka, Azure DevOps, Linux, Wix v6
+
+---
+
+#### **Freelance – .NET Developer (Contract)** 📅 **01.2025 – 03.2025**
+#### **3. English Global Express (EdTech)** | Project Description  
+Developed a RESTful backend API for managing online English lessons, students, teachers, and homework submissions. Implemented JWT authentication with ASP.NET Core Identity and integrated file handling for homework uploads. Designed a modular architecture with clear separation of DTOs, Entities, and Controllers for scalability and maintainability.  
+**Technologies:** ASP.NET Core 8 Web API, Entity Framework Core, MSSQL, Identity, JWT Authentication, AutoMapper, FluentValidation
+
+---
+
+#### LLC "KRYVOOZERSKA KhSF" 📅 **02.2023 – 12.2024**
 
 #### **1. B2B Platform for Distributor Orders – KStore** | [Project Description](projects/b2b-krivoozerska/summary_en.md)
 A web platform developed to automate the processing of distributor orders. Before its implementation, orders were received via email as separate files, requiring manual entry into the ERP system. Order processing time was reduced from 8 hours per week to 10 minutes per day — saving over 300 hours annually.
-
-- Simplified the process of creating and tracking orders.
-- Implemented personalized price lists, order history, internal messaging and notification system.
-- Added the ability to export to .csv for further import into the ERP system.
-- Implemented document approval with partners. Generates a QR code on the document with data such as date, signatory, etc.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Microsoft Graph API (email notifications)
 
@@ -93,22 +109,12 @@ A web platform developed to automate the processing of distributor orders. Befor
 An inventory management system for retail equipment that replaced the use of Excel spreadsheets and provided automated control over the placement of refrigerators and shelves.  
 Inventory became transparent — each device has a QR code, a photo, and is displayed on the map.
 
-- Implemented a hierarchical structure for equipment accounting by regions, districts, and localities.
-- Integrated Google Maps API to display equipment location and track inspections.
-- Added QR codes for quick access to equipment information.
-- Implemented report export in .xlsx format and analytics on photo availability and geolocation.
-
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Google Maps API, Microsoft Graph API (email notifications)
 
 ---
 
 #### **3. B2B Platform for Ordering Bakery Products – "Krivoozerska"** | [Project Description](projects/b2b-krivoozerska-bakery/summary_en.md) | [Order Cabinet Demo](https://krpk.net/Demo/Client/Main) | [Bakery Website](https://bakery.krpk.net)  
 A platform for ordering bakery products that optimized the customer order processing workflow. Up to 10% of clients switched to self-service through the platform, reducing the load on the call center.
-
-- Developed a user-friendly product catalog with filtering and sorting options.
-- Implemented order history, repeat order functionality, discount system, individual price lists, and product return handling.
-- Integrated with the ERP system via order export to a file for further import.
-- Implemented email notifications to inform clients about order status updates.
 
 **Technologies:** ASP.NET Core, Entity Framework Core, MSSQL, REST API, Bootstrap, JavaScript
 
@@ -117,12 +123,6 @@ A platform for ordering bakery products that optimized the customer order proces
 #### **4. Krivoozerska Pallet Mark – WPF Desktop Application** | [Project Description](projects/krivoozerska-pallet-mark/summary_en.md)  
 WPF application for automating pallet labeling in mineral water production that replaced manual filling of paper labels/tags.  
 Eliminated manual filling of over 100 labels daily — reducing errors and losses during transportation.
-
-- Input fields are divided into **two categories**:
-  - **Label data (printed on Xprinter XP-480B thermal printer)**: Brand, Product, Production Date, Batch, Bottle Count, Row/Pallet Position, Weight (kg).
-  - **Barcode data (encoded for tracking)**: Water Type, Operator, Line, Shift, Working Period.
-- Provides **real-time label preview** before printing.
-- Supports **bulk printing** to improve efficiency.
 
 **Technologies:** WPF (.NET 9), XAML, C#, Xprinter Thermal Printer (XP-480B), Barcode Generation 
 
