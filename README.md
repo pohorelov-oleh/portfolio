@@ -79,7 +79,7 @@
 ---
 
 #### **INtenseLab** 📅 **01.2025 – Present**
-#### **2. Fintech – Market Data & Online Brokerage Platform** 
+#### **Fintech – Market Data & Online Brokerage Platform** 
 Worked on a .NET MAUI desktop app for real-time trading analytics and portfolio monitoring.  
 Maintained and modernized **WPF components**, built a **Wix v6 installer** from scratch for deployment automation.  
 Worked on **Blazor Server/WASM** dashboards for market data visualization.  
@@ -90,7 +90,7 @@ Integrated **Kafka** and **PostgreSQL** for real-time data streaming and persist
 ---
 
 #### **Freelance – .NET Developer (Contract)** 📅 **01.2025 – 03.2025**
-#### **3. English Global Express (EdTech)** | Project Description  
+#### **English Global Express (EdTech)** | Project Description  
 Developed a RESTful backend API for managing online English lessons, students, teachers, and homework submissions. Implemented JWT authentication with ASP.NET Core Identity and integrated file handling for homework uploads. Designed a modular architecture with clear separation of DTOs, Entities, and Controllers for scalability and maintainability.  
 **Technologies:** ASP.NET Core 8 Web API, Entity Framework Core, MSSQL, Identity, JWT Authentication, AutoMapper, FluentValidation
 
