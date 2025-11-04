@@ -78,21 +78,18 @@
 
 ---
 
-#### **IntenseLab** 📅 **01.2025 – дотепер**
-#### **Fintech – Платформа ринкових даних та онлайн-брокериджу**  
-Працював над **.NET MAUI десктопним застосунком** для аналітики торгів у реальному часі та моніторингу.  
-Підтримував і модернізував **WPF-компоненти**, створив **Wix v6 інсталятор** для автоматизації розгортання та апдейтер.  
-Розробляв **Blazor Server/WASM** дашборди для візуалізації ринкових даних.  
-Брав участь у налаштуванні **CI/CD пайплайнів у Microsoft Azure DevOps** та **розгортанні .NET сервісів на Linux**.  
-Інтегрував **Kafka** та **PostgreSQL** для потокової обробки даних у реальному часі та їх збереження.  
-**Технології:** .NET 8, MAUI, WPF, Blazor, PostgreSQL, Kafka, Azure DevOps, Linux, Wix v6
-
+#### **IтtenseLab** 📅 **01.2025 – Present**
+#### **Fintech – Market Data & Online Brokerage Platform** 
+Worked on a .NET MAUI desktop app for real-time trading analytics.  
+Maintained and modernized **WPF components**, built a **Wix v6 installer** and updater for deployment automation.  
+Worked on **Blazor Server/WASM** dashboards for market data visualization.  
+**Kafka** and **PostgreSQL** for real-time data streaming and persist
 ---
 
-#### **Freelance – .NET Developer (Контракт)** 📅 **01.2025 – 03.2025**
-#### **English Global Express (EdTech)** | Опис проєкту  
-Розробив RESTful backend API для управління онлайн-уроками англійської мови, студентами, викладачами та завданнями. Реалізував JWT-аутентифікацію з використанням ASP.NET Core Identity та інтегрував завантаження файлів для домашніх завдань. Створив чисту архітектуру з чітким розділенням DTO, Entity та Controller для масштабованості та зручності підтримки.  
-**Технології:** ASP.NET Core 8 Web API, Entity Framework Core, MSSQL, Identity, JWT Authentication, AutoMapper, FluentValidation
+#### **Freelance – .NET Developer (Contract)** 📅 **01.2025 – 03.2025**
+#### **English Global Express (EdTech)** | Project Description  
+Developed a RESTful backend API for managing online English lessons, students, teachers, and homework submissions. Implemented JWT authentication with ASP.NET Core Identity and integrated file handling for homework uploads. Designed a clean architecture with clear separation of DTOs, Entities, and Controllers for scalability and maintainability.  
+**Technologies:** ASP.NET Core 8 Web API, Entity Framework Core, MSSQL, Identity, JWT Authentication
 
 ---
 
