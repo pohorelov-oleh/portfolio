@@ -78,12 +78,14 @@
 
 ---
 
-#### **IтtenseLab** 📅 **01.2025 – Present**
-#### **Fintech – Market Data & Online Brokerage Platform** 
+#### **IntenseLab** 📅 **01.2025 – Present**
+
+#### **Fintech – Market Data & Online Brokerage Platform**  
 Worked on a .NET MAUI desktop app for real-time trading analytics.  
 Maintained and modernized **WPF components**, built a **Wix v6 installer** and updater for deployment automation.  
 Worked on **Blazor Server/WASM** dashboards for market data visualization.  
-**Kafka** and **PostgreSQL** for real-time data streaming and persist
+**Kafka** and **PostgreSQL** for real-time data streaming and persistence.  
+
 ---
 
 #### **Freelance – .NET Developer (Contract)** 📅 **01.2025 – 03.2025**
